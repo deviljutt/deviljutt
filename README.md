@@ -43,3 +43,5 @@
 [twitter]: https://twitter.com/davil_jutt
 [instagram]: https://www.instagram.com/nabeel_goraya/
 [linkedin]: https://www.linkedin.com/in/nabeel-goraya/
+[facebook]: https://www.facebook.com/nabeel.goraya
+
