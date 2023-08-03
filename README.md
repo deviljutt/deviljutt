@@ -3,7 +3,7 @@
 ## I'm a Developer and Security Researcher
 - 🔭 I’m currently working on a NodeJs.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games 🤣
 
 ### Connect with me:
