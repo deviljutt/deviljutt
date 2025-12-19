@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nabeel Goraya  
-### aka **wpAdhoc**
+### aka **daviljutt**
 
 🚀 Full-Stack Developer | 🛡️ Security Researcher | 🌍 Open-Source Contributor  
 
